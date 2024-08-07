@@ -1,0 +1,10 @@
+black
+db-sqlite3
+matplotlib
+pandas
+plotly_express
+requests
+seaborn
+SQLAlchemy
+nbformat
+pytest
